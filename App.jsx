@@ -6,12 +6,12 @@ function App(){
   const [state,setState] = useState ({
       options: {
         chart: {
-          id: "basic-bar"
+          id: "basic-barasdffsdf"
         },
         xaxis: {
           categories: ["Sun","Sun","Mon","Tue","Wed","Thu","Fri"]
         },
-      },
+      },     
       series: [
         {
           name: "series-1",
